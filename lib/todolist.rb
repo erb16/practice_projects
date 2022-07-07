@@ -12,3 +12,5 @@ class TodoList
   end
   
 end
+
+#made some changes
